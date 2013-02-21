@@ -1,4 +1,4 @@
-static_converterクラス
+static_converterクラス(Codeigniter用)
 ================
 
 //静的なファイル(JS, CSSなど)のソース内部にあるURLパスをBASE_URLに合わせて置換するクラス
